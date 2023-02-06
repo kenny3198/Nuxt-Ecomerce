@@ -8,7 +8,7 @@ app: {
          { name: "description", content: "Everything About Nuxt"}
         ],
         link: [
-            { rel: "stylesheet"}
+            // { rel: "stylesheet"}
         ]
     }
 }
